@@ -1,11 +1,13 @@
 <template>
   <div>
-    <RouterView></RouterView>
+    <ul>
+        <li class="">Tailwind Setup</li>
+    </ul>
   </div>
 </template>
 
 <script setup>
-import { RouterView } from 'vue-router'
+
 </script>
 
 <style lang="scss" scoped>
